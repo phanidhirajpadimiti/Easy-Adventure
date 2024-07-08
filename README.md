@@ -1,1 +1,1 @@
-# EasyAdventure
+# Easy Adventure
