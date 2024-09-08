@@ -22,7 +22,7 @@ Lack of a centralized platform for discovering outdoor adventures <br>
 Difficulty in finding tailored adventure recommendations <br>
 Absence of community platforms for shared experiences and collaborative planning <br>
 ## System Architecture
-The Easy Adventure app is designed with a robust system architecture to ensure smooth functionality and user experience. Key components include:
+The Easy Adventure app is designed with a robust system architecture to ensure smooth functionality and user experience. Key components include:<br>
 User Interface <br>
 Authentication System <br>
 User Profile Management <br>
